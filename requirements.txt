@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+debugpy
+importlib-metadata
+black  # for black
+marshmallow
+pymongo
+python-dotenv
+mysql-connector-python
